@@ -11,7 +11,7 @@ for number in numbers:
     cnt = 0
     for value in result:
         if number == value:
-            cnt = cnt + 1
+            cnt = cnt+1
     arr.append(cnt)
 
 for data in arr:
